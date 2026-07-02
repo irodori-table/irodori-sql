@@ -18,7 +18,7 @@ This crate does not connect to databases.
 
 ```toml
 [dependencies]
-irodori-sql = "0.3"
+irodori-sql = { git = "https://github.com/hjosugi/irodori-sql", tag = "v0.3.0" }
 ```
 
 ```rust
