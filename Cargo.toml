@@ -2,7 +2,7 @@
 name = "irodori-sql"
 version = "0.3.0"
 edition = "2021"
-license = "MIT OR 0BSD"
+license = "0BSD"
 authors = ["Irodori Table contributors"]
 description = "SQL dialect, parameter, metamodel, and schema helpers for Irodori."
 repository = "https://github.com/hjosugi/irodori-sql"
