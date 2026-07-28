@@ -1,3 +1,6 @@
+<!-- i18n: language-switcher -->
+[English](README.md) | [日本語](README.ja.md)
+
 # irodori-sql
 
 SQL helpers used by Irodori Table and other Rust hosts.
