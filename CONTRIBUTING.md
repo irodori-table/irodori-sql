@@ -8,7 +8,7 @@ by Irodori Table and sibling Rust hosts.
 Follow the Irodori clean-room policy before using reference products, source
 code, snippets, generated assets, or database-client behavior notes:
 
-<https://hjosugi.github.io/irodori-docs/clean-room.html>
+<https://irodori-table.github.io/irodori-docs/clean-room.html>
 
 Project-authored code uses `MIT OR 0BSD` unless a file states otherwise.
 
